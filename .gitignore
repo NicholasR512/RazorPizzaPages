@@ -1,0 +1,55 @@
+# Build and dependencies
+bin/
+obj/
+.vscode/
+*.user
+*.suo
+*.bak
+*.ncb
+*.log
+*.cache
+*.swp
+*.sln.docstates
+project.lock.json
+.vs/
+
+# ASP.NET Core configuration files
+appsettings*.json
+secrets.json
+
+# Node.js dependencies (if using Node.js)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs and debugging
+logs/
+*.log
+*.tlog
+*.pdb
+
+# Entity Framework migrations
+Migrations/
+
+# Compiled DLLs
+*.dll
+*.exe
+*.so
+*.dylib
+
+# Rider JetBrains files
+.idea/
+*.iml
+
+# Git files
+.git/
+.gitignore
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code settings
+.vscode/
